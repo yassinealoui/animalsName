@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: 011555efd56fa2c47abf928856b0f578
+timeCreated: 1616760887
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: crocodiale
+    21300002: ostrich
+    21300004: gull
+    21300006: lizard
+    21300008: bear
+    21300010: hedgehog
+    21300012: dear
+    21300014: asianLion
+    21300016: cat
+    21300018: chicken
+    21300020: sheep
+    21300022: rihno
+    21300024: butterFly
+    21300026: whale
+    21300028: bee
+    21300030: goat
+    21300032: koala
+    21300034: bird
+    21300036: mouse
+    21300038: dog
+    21300040: elephant
+    21300042: AfricanTiger
+    21300044: fox
+    21300046: panda
+    21300048: Hippopotamus
+    21300050: snail
+    21300052: fly
+    21300054: worm
+    21300056: Partridge
+    21300058: cheetah
+    21300060: girrafe
+    21300062: rabit
+    21300064: monkey
+    21300066: panda
+    21300068: turtule
+    21300070: quail
+    21300072: duck
+    21300074: ant
+    21300076: horse
+    21300078: owl
+    21300080: bat
+    21300082: LadyBug
+    21300084: donkey
+    21300086: coq
+    21300088: chicken
+    21300090: mule
+    21300092: rat
+    21300094: tiger
+    21300096: lion
+    21300098: SmallChicken
+    21300100: Graykoala
+    21300102: Squirrel
+    21300104: whiteKoala
+    21300106: Asiantiger
+    21300108: AfricanLion
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crocodiale
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2407
+        width: 340
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ostrich
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2408
+        width: 296
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gull
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2405
+        width: 312
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lizard
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 2406
+        width: 260
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bear
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 2407
+        width: 242
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hedgehog
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 2405
+        width: 228
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dear
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2408
+        width: 240
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asianLion
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2007
+        width: 298
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cat
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2008
+        width: 276
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SmallChicken
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 2007
+        width: 192
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sheep
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 2007
+        width: 278
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rihno
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2022
+        width: 390
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: butterFly
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 2027
+        width: 388
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whale
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 2012
+        width: 386
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bee
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1611
+        width: 342
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goat
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1610
+        width: 246
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Graykoala
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1607
+        width: 386
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1639
+        width: 382
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Squirrel
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1615
+        width: 388
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1608
+        width: 262
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: elephant
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 1606
+        width: 360
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AfricanTiger
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1208
+        width: 338
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fox
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1208
+        width: 232
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteKoala
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1208
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hippopotamus
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1208
+        width: 318
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: snail
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1237
+        width: 378
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fly
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1240
+        width: 384
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worm
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1281
+        width: 386
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Partridge
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 810
+        width: 326
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cheetah
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 809
+        width: 278
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: girrafe
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 810
+        width: 224
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rabit
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 809
+        width: 194
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monkey
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 810
+        width: 256
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: panda
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 811
+        width: 238
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turtule
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 858
+        width: 378
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: quail
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 410
+        width: 218
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: duck
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 408
+        width: 346
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ant
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 416
+        width: 378
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: horse
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 439
+        width: 384
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: owl
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 437
+        width: 380
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bat
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 440
+        width: 382
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LadyBug
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 447
+        width: 382
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: donkey
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 380
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coq
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 9
+        width: 218
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chicken
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 11
+        width: 220
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mule
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 35
+        width: 382
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rat
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 11
+        width: 332
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asiantiger
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 11
+        width: 334
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AfricanLion
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 12
+        width: 284
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

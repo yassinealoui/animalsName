@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\endMenuSc.cs">
+    <Files>
+      <File FileName="Assets\popupWinSc.cs" Line="87" Column="2" />
+      <File FileName="Assets\popUPLoseSc.cs" Line="6" Column="2" />
+      <File FileName="Assets\randomController.cs" Line="5" Column="16" />
+      <File FileName="Assets\delController.cs" Line="37" Column="20" />
+      <File FileName="Assets\animationAnimals.cs" Line="5" Column="30" />
+      <File FileName="Assets\dragSc.cs" Line="3" Column="19" />
+      <File FileName="Assets\dropSC.cs" Line="3" Column="19" />
+      <File FileName="Assets\moneySc.cs" Line="15" Column="17" />
+      <File FileName="Assets\progressBarSc.cs" Line="12" Column="26" />
+      <File FileName="Assets\starsSC.cs" Line="5" Column="39" />
+      <File FileName="Assets\startSC.cs" Line="14" Column="55" />
+      <File FileName="Assets\timerSC.cs" Line="47" Column="16" />
+      <File FileName="Assets\trialsSC.cs" Line="26" Column="38" />
+      <File FileName="Assets\endMenuSc.cs" Line="22" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
